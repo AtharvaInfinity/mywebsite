@@ -1,0 +1,64 @@
+.headercarousel{
+    width: 100%;
+    background-color: #F2F2F2;
+}
+.bd-placeholder-img{
+    width: 100%;
+}
+.opacity-100{
+    text-transform: capitalize;
+    font-family:"Montserrat", sans-serif;
+    font-size: 1rem;
+    margin-top: 1rem;
+    color: #5256aa;
+}
+.card-text{
+
+    font-family:"Montserrat", sans-serif;
+    font-size: 1rem;
+        color: #5256aa;
+}
+.skillex{
+    list-style-type: none;
+}
+.seli{
+    text-align: justify;
+}
+.carouselh1{
+    font-family:"Sacramento", cursive;
+    font-size: 3rem;
+    color: #5256aa;
+
+}
+.mypic{
+    border-radius: 50%;
+}
+.abouth1{
+    font-family:"Sacramento", cursive;
+    font-size: 5rem;
+    color: #5256aa;
+}
+.seh1{
+    text-align: justify;
+    font-family:"Sacramento", cursive;
+    font-size: 5rem;
+    color: #5256aa;
+}
+.abouth2{
+    font-family:"Montserrat", sans-serif;
+    font-size: 2rem;
+    color: #5256aa;
+}
+.seh2{
+    text-align:justify;
+    font-family:"Montserrat", sans-serif;
+    font-size: 2rem;
+    color: #5256aa;
+}
+.aboutp{
+    text-align: center;
+    font-family:"Montserrat", sans-serif;
+    font-size: 1rem;
+    margin-top: 1rem;
+    color: #5256aa;
+}
